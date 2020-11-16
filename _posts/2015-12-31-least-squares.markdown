@@ -4,7 +4,9 @@ title:  "Least squares as maximum likelihood"
 date:   2015-12-31 21:11:00 +0000
 ---
 
-<script type="text/javascript" src="http://cdn.mathjax.org/mathjax/latest/MathJax.js?config=TeX-AMS-MML_HTMLorMML"></script>
+<script type="text/javascript" id="MathJax-script" async
+  src="https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-svg.js">
+</script>
 
 When fitting a model it's common to choose parameters to minimise the sum of squared errors on the training data.
 
